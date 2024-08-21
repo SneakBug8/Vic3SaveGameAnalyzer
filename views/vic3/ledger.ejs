@@ -1,0 +1,844 @@
+<%- include('../partials/head') %>
+
+    <div id="app">
+        <h1>Save game {{metadata.country}} {{metadata.date}}, v{{metadata.version}}</h1>
+
+        <ul class="nav nav-tabs nav-justified">
+            <li class="nav-item">
+                <a class="nav-link" @click.prevent="setActive('0')" :class="{ active: isActive('0') }"
+                    href="#economy">World</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" @click.prevent="setActive('1')" :class="{ active: isActive('1') }"
+                    href="#economy">Economy</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" @click.prevent="setActive('2')" :class="{ active: isActive('2') }"
+                    href="#market">Market</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" @click.prevent="setActive('3')" :class="{ active: isActive('3') }"
+                    href="#govt">Government</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" @click.prevent="setActive('4')" :class="{ active: isActive('4') }"
+                    href="#social">Social</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" @click.prevent="setActive('5')" :class="{ active: isActive('5') }"
+                    href="#goods">Goods</a>
+            </li>
+        </ul>
+        <div class="tab-content py-3" id="myTabContent">
+            <div class="tab-pane fade" :class="{ 'active show': isActive('0') }" id="worldtab">
+                <h2>World GDP</h2>
+                <canvas id="myChart" width="100" height="100"></canvas>
+            </div>
+            <div class="tab-pane fade" :class="{ 'active show': isActive('1') }" id="economytab">
+                <h2>Economy</h2>
+                <table id="economy">
+                    <thead>
+                        <td>#</td>
+                        <td>Tag</td>
+                        <td>Prestige</td>
+                        <td>Population</td>
+                        <td>GDP</td>
+                        <td>Avg yearly GDP growth*</td>
+                        <td>Money</td>
+                        <td>Average worker productivity</td>
+                        <td>Credit</td>
+                        <td>Principal</td>
+                        <td>Investment pool</td>
+                    </thead>
+                    <tbody id="tbody">
+
+                    </tbody>
+                </table>
+                <p>* Against population growth</p>
+            </div>
+            <div class="tab-pane fade" :class="{ 'active show': isActive('2') }" id="markettab">
+                <h2>Market</h2>
+                <table id="market">
+                    <thead>
+                        <td>#</td>
+                        <td>Tag</td>
+                        <td>GDP</td>
+                        <td>Population</td>
+                        <td>Part of GDP</td>
+                        <td>Part of Population</td>
+                        <td>Market</td>
+                        <td>Market Owner</td>
+                        <td>Market GDP</td>
+                        <td>Market Population</td>
+                    </thead>
+                    <tbody id="tbody">
+
+                    </tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" :class="{ 'active show': isActive('3') }" id="govtab">
+                <h2>Govenment</h2>
+                <table id="government">
+                    <thead>
+                        <td>#</td>
+                        <td>Tag</td>
+                        <td>Weekly Balance</td>
+                        <td>Income taxes</td>
+                        <td>Poll taxes</td>
+                        <td>Consumption taxes</td>
+                        <td>Investment poll transfer</td>
+                        <td>Minting</td>
+                        <td>Tariffs</td>
+                        <td>Goods for govt buildings</td>
+                        <td>Government wages</td>
+                        <td>Goods for military buildings</td>
+                        <td>Military wages</td>
+                        <td>Construction goods</td>
+                    </thead>
+                    <tbody id="tbody">
+
+                    </tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" :class="{ 'active show': isActive('4') }" id="socialtab">
+                <h2>Social</h2>
+                <table id="social">
+                    <thead>
+                        <td>#</td>
+                        <td>Tag</td>
+                        <td>Population</td>
+                        <td>Lower strata pops</td>
+                        <td>Middle strata pops</td>
+                        <td>Upper strata pops</td>
+                        <td>Radicals</td>
+                        <td>Loyalists</td>
+                        <td>Total Political</td>
+                        <td>Total slave</td>
+                        <td>Salaried working adults</td>
+                        <td>Govenment working adults</td>
+                        <td>Laborer working adults</td>
+                        <td>Subsisting working adults</td>
+                        <td>Unemployed working adults</td>
+                    </thead>
+                    <tbody id="tbody">
+
+                    </tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" :class="{ 'active show': isActive('5') }" id="goodstab">
+                <h2>Goods prices</h2>
+                <table id="prices">
+                    <thead>
+                        <td>Tag</td>
+                        <td><img class="goodicon" src="/goods/ammunition.gif">
+                            Ammunition</td>
+                        <td><img class="goodicon" src="/goods/small_arms.gif">
+                            Small arms</td>
+                        <td><img class="goodicon" src="/goods/artillery.gif">
+                            Artillery</td>
+                        <td><img class="goodicon" src="/goods/tanks.gif">
+                            Tanks</td>
+                        <td><img class="goodicon" src="/goods/aeroplanes.gif">
+                            Aeroplanes</td>
+                        <td><img class="goodicon" src="/goods/man_o_wars.gif">
+                            Man'o'wars</td>
+                        <td><img class="goodicon" src="/goods/ironclads.gif">
+                            Ironclads</td>
+                        <td><img class="goodicon" src="/goods/grain.gif">
+                            Grain</td>
+                        <td><img class="goodicon" src="/goods/fish.gif">
+                            Fish</td>
+                        <td><img class="goodicon" src="/goods/fabric.gif">
+                            Fabric</td>
+                        <td><img class="goodicon" src="/goods/wood.gif">
+                            Wood</td>
+                        <td><img class="goodicon" src="/goods/groceries.gif">
+                            Groceries</td>
+                        <td><img class="goodicon" src="/goods/clothes.gif">
+                            Clothes</td>
+                        <td><img class="goodicon" src="/goods/furniture.gif">
+                            Furniture</td>
+                        <td><img class="goodicon" src="/goods/paper.gif">
+                            Paper</td>
+                        <td><img class="goodicon" src="/goods/services.gif">
+                            Services</td>
+                        <td><img class="goodicon" src="/goods/transportation.gif">
+                            Transportation</td>
+                        <td><img class="goodicon" src="/goods/electricity.gif">
+                            Electricity</td>
+                        <td><img class="goodicon" src="/goods/clippers.gif">
+                            Clippers</td>
+                        <td><img class="goodicon" src="/goods/steamers.gif">
+                            Steamers</td>
+                        <td><img class="goodicon" src="/goods/silk.gif">
+                            Silk</td>
+                        <td><img class="goodicon" src="/goods/dye.gif">
+                            Dye</td>
+                        <td><img class="goodicon" src="/goods/sulfur.gif">
+                            Sulfur</td>
+                        <td><img class="goodicon" src="/goods/coal.gif">
+                            Coal</td>
+                        <td><img class="goodicon" src="/goods/iron.gif">
+                            Iron</td>
+                        <td><img class="goodicon" src="/goods/lead.gif">
+                            Lead</td>
+                        <td><img class="goodicon" src="/goods/hardwood.gif">
+                            Hardwood</td>
+                        <td><img class="goodicon" src="/goods/rubber.gif">
+                            Rubber</td>
+                        <td><img class="goodicon" src="/goods/oil.gif">
+                            Oil</td>
+                        <td><img class="goodicon" src="/goods/engines.gif">
+                            Engines</td>
+                        <td><img class="goodicon" src="/goods/steel.gif">
+                            Steel</td>
+                        <td><img class="goodicon" src="/goods/glass.gif">
+                            Glass</td>
+                        <td><img class="goodicon" src="/goods/fertilizer.gif">
+                            Fertilizer</td>
+                        <td><img class="goodicon" src="/goods/tools.gif">
+                            Tools</td>
+                        <td><img class="goodicon" src="/goods/explosives.gif">
+                            Explosives</td>
+                        <td><img class="goodicon" src="/goods/porcelain.gif">
+                            Porcelain</td>
+                        <td><img class="goodicon" src="/goods/meat.gif">
+                            Meat</td>
+                        <td><img class="goodicon" src="/goods/fruit.gif">
+                            Fruit</td>
+                        <td><img class="goodicon" src="/goods/liquor.gif">
+                            Liquor</td>
+                        <td><img class="goodicon" src="/goods/wine.gif">
+                            Wine</td>
+                        <td><img class="goodicon" src="/goods/tea.gif">
+                            Tea</td>
+                        <td><img class="goodicon" src="/goods/coffee.gif">
+                            Coffee</td>
+                        <td><img class="goodicon" src="/goods/sugar.gif">
+                            Sugar</td>
+                        <td><img class="goodicon" src="/goods/tobacco.gif">
+                            Tobacco</td>
+                        <td><img class="goodicon" src="/goods/opium.gif">
+                            Opium</td>
+                        <td><img class="goodicon" src="/goods/automobiles.gif">
+                            Automobiles</td>
+                        <td><img class="goodicon" src="/goods/telephones.gif">
+                            Telephones</td>
+                        <td><img class="goodicon" src="/goods/radios.gif">
+                            Radios</td>
+                        <td><img class="goodicon" src="/goods/luxury_clothes.gif">
+                            Luxury clothes</td>
+                        <td><img class="goodicon" src="/goods/luxury_furniture.gif">
+                            Luxury furniture</td>
+                        <td><img class="goodicon" src="/goods/gold.gif">
+                            Gold</td>
+                        <td><img class="goodicon" src="/goods/fine_art.gif">
+                            Fine art</td>
+                    </thead>
+                    <tbody id="tbody">
+
+                    </tbody>
+                </table>
+                <div style="width: 300px;">
+                <h2><img class="goodicon" src="/goods/ammunition.gif">
+                    Ammunition</h2>
+                <canvas id="myChart0" width="100" height="100"></canvas>
+                <h2><img class="goodicon" src="/goods/small_arms.gif">
+                    Small arms</h2>
+                <canvas id="myChart1" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/artillery.gif">
+                    Artillery</h2>
+                <canvas id="myChart2" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/tanks.gif">
+                    Tanks</h2>
+                <canvas id="myChart3" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/aeroplanes.gif">
+                    Aeroplanes</h2>
+                <canvas id="myChart4" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/man_o_wars.gif">
+                    Man'o'wars</h2>
+                <canvas id="myChart5" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/ironclads.gif">
+                    Ironclads</h2>
+                <canvas id="myChart6" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/grain.gif">
+                    Grain</h2>
+                <canvas id="myChart7" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/fish.gif">
+                    Fish</h2>
+                <canvas id="myChart8" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/fabric.gif">
+                    Fabric</h2>
+                <canvas id="myChart9" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/wood.gif">
+                    Wood</h2>
+                <canvas id="myChart10" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/groceries.gif">
+                    Groceries</h2>
+                <canvas id="myChart11" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/clothes.gif">
+                    Clothes</h2>
+                <canvas id="myChart12" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/furniture.gif">
+                    Furniture</h2>
+                <canvas id="myChart13" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/paper.gif">
+                    Paper</h2>
+
+                <canvas id="myChart14" width="100" height="100"></canvas>
+                <h2><img class="goodicon" src="/goods/services.gif">
+                    Services</h2>
+
+                <canvas id="myChart15" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/transportation.gif">
+                    Transportation</h2>
+                <canvas id="myChart16" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/electricity.gif">
+                    Electricity</h2>
+                <canvas id="myChart17" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/clippers.gif">
+                    Clippers</h2>
+                <canvas id="myChart18" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/steamers.gif">
+                    Steamers</h2>
+                <canvas id="myChart19" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/silk.gif">
+                    Silk</h2>
+                <canvas id="myChart20" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/dye.gif">
+                    Dye</h2>
+
+                <canvas id="myChart21" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/sulfur.gif">
+                    Sulfur</h2>
+
+                <canvas id="myChart22" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/coal.gif">
+                    Coal</h2>
+
+                <canvas id="myChart23" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/iron.gif">
+                    Iron</h2>
+                <canvas id="myChart24" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/lead.gif">
+                    Lead</h2>
+                <canvas id="myChart25" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/hardwood.gif">
+                    Hardwood</h2>
+                <canvas id="myChart26" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/rubber.gif">
+                    Rubber</h2>
+                <canvas id="myChart27" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/oil.gif">
+                    Oil</h2>
+                <canvas id="myChart28" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/engines.gif">
+                    Engines</h2>
+                <canvas id="myChart29" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/steel.gif">
+                    Steel</h2>
+                <canvas id="myChart30" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/glass.gif">
+                    Glass</h2>
+                <canvas id="myChart31" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/fertilizer.gif">
+                    Fertilizer</h2>
+                <canvas id="myChart32" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/tools.gif">
+                    Tools</h2>
+                <canvas id="myChart33" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/explosives.gif">
+                    Explosives</h2>
+                <canvas id="myChart34" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/porcelain.gif">
+                    Porcelain</h2>
+                <canvas id="myChart35" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/meat.gif">
+                    Meat</h2>
+                <canvas id="myChart36" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/fruit.gif">
+                    Fruit</h2>
+                <canvas id="myChart37" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/liquor.gif">
+                    Liquor</h2>
+                <canvas id="myChart38" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/wine.gif">
+                    Wine</h2>
+                <canvas id="myChart39" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/tea.gif">
+                    Tea</h2>
+                <canvas id="myChart40" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/coffee.gif">
+                    Coffee</h2>
+                <canvas id="myChart41" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/sugar.gif">
+                    Sugar</h2>
+                <canvas id="myChart42" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/tobacco.gif">
+                    Tobacco</h2>
+                <canvas id="myChart43" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/opium.gif">
+                    Opium</h2>
+                <canvas id="myChart44" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/automobiles.gif">
+                    Automobiles</h2>
+                <canvas id="myChart45" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/telephones.gif">
+                    Telephones</h2>
+                <canvas id="myChart46" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/radios.gif">
+                    Radios</h2>
+                <canvas id="myChart47" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/luxury_clothes.gif">
+                    Luxury clothes</h2>
+                <canvas id="myChart48" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/luxury_furniture.gif">
+                    Luxury furniture</h2>
+                <canvas id="myChart49" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/gold.gif">
+                    Gold</h2>
+                <canvas id="myChart50" width="100" height="100"></canvas>
+
+                <h2><img class="goodicon" src="/goods/fine_art.gif">
+                    Fine art</h2>
+                <canvas id="myChart51" width="100" height="100"></canvas>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        .goodicon {
+            width: 50px;
+        }
+    </style>
+
+    <script defer>
+        var id = "<%- id -%>";
+
+        var app = new Vue({
+            el: '#app',
+            data: {
+                metadata: { country: "", date: "", version: "" },
+                data: [],
+                error: "",
+                success: "",
+                activeItem: '0'
+            },
+            filters: {
+                formatDate: function (v) {
+                    var d = new Date(Number.parseInt(v, 10));
+                    return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
+                }
+            },
+            methods: {
+                loadData: function () {
+                    axios.get(`/api/${id}/countries/ledger`)
+                        .then(fillTable)
+                        .catch(function (error) {
+                            // handle error
+                            console.log(error);
+                        });
+                    axios.get(`/api/${id}/worldgdp`)
+                        .then(drawChart)
+                        .catch(function (error) {
+                            // handle error
+                            console.log(error);
+                        });
+                    axios.get(`/api/${id}/goodsproduction`)
+                        .then(goodsCharts)
+                        .catch(function (error) {
+                            // handle error
+                            console.log(error);
+                        });
+                },
+                isActive(menuItem) {
+                    return this.activeItem === menuItem
+                },
+                setActive(menuItem) {
+                    this.activeItem = menuItem
+                }
+            }
+        });
+
+        app.loadData();
+
+        function thousandsSep(data, type, row) {
+            return data && data.toLocaleString('en');
+        }
+        function percent(data, type, row) {
+            return data + "%";
+        }
+
+
+        function drawChart(response) {
+            const ctx = document.getElementById('myChart').getContext('2d');
+
+            console.log(response.data);
+
+            const myChart = new Chart(ctx, {
+                type: 'doughnut',
+                data: response.data
+            });
+        }
+
+        function goodsCharts(response) {
+            const data = response.data;
+            console.log(data);
+
+
+            for (const entry of data) {
+                try {
+
+                    console.log(`Chart ${`myChart` + entry.good}`);
+
+                    const ctx = document.getElementById(`myChart` + entry.good).getContext('2d');
+
+                    const countries = entry.production.map((x) => `${x.country} (${x.part}%)`);
+                    const amounts = entry.production.map((x) => x.amount);
+
+                    const myChart = new Chart(ctx, {
+                        type: 'doughnut',
+                        data: {
+                            labels: countries,
+                            datasets: [
+                                {
+                                    label: "Good production",
+                                    data: amounts
+                                }
+                            ]
+                        }
+                    });
+                }
+                catch (e) {
+                    console.log(e);
+                }
+            }
+        }
+
+        function fillTable(response) {
+            // console.log(response.data);
+
+            const countries = response.data.countries;
+            const metadata = response.data.metadata;
+
+            app.data.metadata = metadata;
+            $("h1").text(`Save game ${metadata.country} ${metadata.date}, v${metadata.version}`);
+
+            $('#economy').DataTable({
+                data: countries,
+                columns: [
+                    { data: null },
+                    { data: 'definition' },
+                    { data: 'prestige' },
+                    {
+                        data: 'population',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'gdp',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'gdpgrowth.growth',
+                        render: percent
+                    },
+                    {
+                        data: 'money',
+                        render: thousandsSep
+                    },
+                    { data: 'average_productivity' },
+                    {
+                        data: 'credit',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'principal',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'investment_pool',
+                        render: thousandsSep
+                    }
+                ],
+                order: [[2, "desc"]],
+                "fnRowCallback": function (nRow, aData, iDisplayIndex, iDisplayIndexFull) {
+                    $('td:eq(0)', nRow).html(iDisplayIndexFull + 1);
+                }
+            });
+
+            $('#market').DataTable({
+                data: countries,
+                columns: [
+                    { data: null },
+                    { data: 'definition' },
+                    {
+                        data: 'gdp',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'population',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'marketsize.partofgdp',
+                        render: percent
+                    },
+                    {
+                        data: 'marketsize.partofpop',
+                        render: percent
+                    },
+                    { data: "marketsize.ownertag" },
+                    { data: "marketsize.owner" },
+                    {
+                        data: 'marketsize.gdp',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'marketsize.pop',
+                        render: thousandsSep
+                    },
+                ],
+                order: [[2, "desc"]],
+                "fnRowCallback": function (nRow, aData, iDisplayIndex, iDisplayIndexFull) {
+                    $('td:eq(0)', nRow).html(iDisplayIndexFull + 1);
+                }
+            });
+
+            $('#government').DataTable({
+                data: countries,
+                columns: [
+                    { data: null },
+                    { data: 'definition' },
+                    {
+                        data: 'balance',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'income_taxes',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'poll_taxes',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'consumption_taxes',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'investment_pool_transfer',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'minting',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'tariffs',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'goods_for_govt_buildings',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'government_wages',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'goods_for_military_buildings',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'military_wages',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'construction_goods',
+                        render: thousandsSep
+                    },
+                ],
+                order: [[2, "desc"]],
+                "fnRowCallback": function (nRow, aData, iDisplayIndex, iDisplayIndexFull) {
+                    $('td:eq(0)', nRow).html(iDisplayIndexFull + 1);
+                }
+            });
+
+            $('#social').DataTable({
+                data: countries,
+                columns: [
+                    { data: null },
+                    { data: 'definition' },
+                    {
+                        data: 'population',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'lower_strata_pops',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'middle_strata_pops',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'upper_strata_pops',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'radicals',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'loyalists',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'total_political',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'total_slave',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'salaried_working_adults',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'government_working_adults',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'laborer_working_adults',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'subsisting_working_adults',
+                        render: thousandsSep
+                    },
+                    {
+                        data: 'unemployed_working_adults',
+                        render: thousandsSep
+                    }
+                ],
+                order: [[2, "desc"]],
+                "fnRowCallback": function (nRow, aData, iDisplayIndex, iDisplayIndexFull) {
+                    $('td:eq(0)', nRow).html(iDisplayIndexFull + 1);
+                }
+            });
+
+            $('#prices').DataTable({
+                data: countries.filter((x) => x.goods["0"]),
+                scrollX: true,
+                columns: [
+                    { data: 'definition' },
+                    { data: 'goods.0' },
+                    { data: 'goods.1' },
+                    { data: 'goods.2' },
+                    { data: 'goods.3' },
+                    { data: 'goods.4' },
+                    { data: 'goods.5' },
+                    { data: 'goods.6' },
+                    { data: 'goods.7' },
+                    { data: 'goods.8' },
+                    { data: 'goods.9' },
+                    { data: 'goods.10' },
+                    { data: 'goods.11' },
+                    { data: 'goods.12' },
+                    { data: 'goods.13' },
+                    { data: 'goods.14' },
+                    { data: 'goods.15' },
+                    { data: 'goods.16' },
+                    { data: 'goods.17' },
+                    { data: 'goods.18' },
+                    { data: 'goods.19' },
+                    { data: 'goods.20' },
+                    { data: 'goods.21' },
+                    { data: 'goods.22' },
+                    { data: 'goods.23' },
+                    { data: 'goods.24' },
+                    { data: 'goods.25' },
+                    { data: 'goods.26' },
+                    { data: 'goods.27' },
+                    { data: 'goods.28' },
+                    { data: 'goods.29' },
+                    { data: 'goods.30' },
+                    { data: 'goods.31' },
+                    { data: 'goods.32' },
+                    { data: 'goods.33' },
+                    { data: 'goods.34' },
+                    { data: 'goods.35' },
+                    { data: 'goods.36' },
+                    { data: 'goods.37' },
+                    { data: 'goods.38' },
+                    { data: 'goods.39' },
+                    { data: 'goods.40' },
+                    { data: 'goods.41' },
+                    { data: 'goods.42' },
+                    { data: 'goods.43' },
+                    { data: 'goods.44' },
+                    { data: 'goods.45' },
+                    { data: 'goods.46' },
+                    { data: 'goods.47' },
+                    { data: 'goods.48' },
+                    { data: 'goods.49' },
+                    { data: 'goods.50' },
+                    { data: 'goods.51' },
+                ],
+                order: [[1, "desc"]]
+            });
+        }
+    </script>
+
+    <%- include('../partials/bottom') %>

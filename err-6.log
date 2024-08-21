@@ -1,0 +1,1692 @@
+Thu, 17 Nov 2022 18:47:55 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:48:07 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:48:20 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:48:32 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:48:49 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:49:01 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:49:14 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:49:26 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:49:39 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:49:51 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:50:02 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:50:15 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:50:28 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:50:40 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:50:53 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:51:05 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:51:17 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:51:30 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:51:46 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new ConfigClass (/home/sneak/vic3savegameanalyzer/bin/config.js:17:34)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/config.js:79:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/AuthService.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:17:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Thu, 17 Nov 2022 18:52:22 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:52:38 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:52:52 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:53:07 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:53:20 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:53:34 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:53:50 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:54:04 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:54:18 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:54:31 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:54:45 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:54:59 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:55:14 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+Thu, 17 Nov 2022 18:55:28 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235
+      throw new Error(`${message}\n${e.message}`);
+      ^
+
+Error: Knex: run
+$ npm install sqlite3 --save
+Cannot find module '/home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/sneak/vic3savegameanalyzer/node_modules/sqlite3/lib/sqlite3.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/config-resolver.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/lib/index.js
+- /home/sneak/vic3savegameanalyzer/node_modules/knex/knex.js
+- /home/sneak/vic3savegameanalyzer/bin/Database.js
+- /home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js
+- /home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Client_SQLite3.initializeDriver (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:235:13)
+    at Client_SQLite3.Client (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/client.js:69:10)
+    at new Client_SQLite3 (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/dialects/sqlite3/index.js:17:10)
+    at Knex (/home/sneak/vic3savegameanalyzer/node_modules/knex/lib/knex.js:14:28)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/Database.js:14:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/IntervalsExecution.js:13:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/util/Scheduler.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module '/home/sneak/vic3savegameanalyzer/bin/index.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module '/home/sneak/vic3savegameanalyzer/bin/index.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+Thu, 17 Nov 2022 18:57:37 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module './util/MIS_DT'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/bin/MessageWrapper.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/MessageWrapper.js:15:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:16:26)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sneak/vic3savegameanalyzer/bin/MessageWrapper.js',
+    '/home/sneak/vic3savegameanalyzer/bin/index.js'
+  ]
+}
+Thu, 17 Nov 2022 18:57:49 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module './util/MIS_DT'
+Require stack:
+- /home/sneak/vic3savegameanalyzer/bin/MessageWrapper.js
+- /home/sneak/vic3savegameanalyzer/bin/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/MessageWrapper.js:15:18)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/index.js:16:26)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sneak/vic3savegameanalyzer/bin/MessageWrapper.js',
+    '/home/sneak/vic3savegameanalyzer/bin/index.js'
+  ]
+}
+Thu, 17 Nov 2022 18:58:16 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal/modules/cjs/loader:1101:14
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Telegram Bot Token not provided!"}
+/home/sneak/vic3savegameanalyzer/bin/parser/Vic3Parser.js:346
+            const basepop = poparr[0];
+                                  ^
+
+TypeError: Cannot read properties of null (reading '0')
+    at Vic3ParserClass.GdpGrowth (/home/sneak/vic3savegameanalyzer/bin/parser/Vic3Parser.js:346:35)
+    at Vic3ParserClass.collectCountryLedger (/home/sneak/vic3savegameanalyzer/bin/parser/Vic3Parser.js:512:32)
+    at /home/sneak/vic3savegameanalyzer/bin/parser/Vic3Web.js:40:105
+    at Vic3WebClass.<anonymous> (/home/sneak/vic3savegameanalyzer/bin/parser/Vic3Web.js:71:26)
+    at Generator.next (<anonymous>)
+    at /home/sneak/vic3savegameanalyzer/bin/parser/Vic3Web.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/sneak/vic3savegameanalyzer/bin/parser/Vic3Web.js:4:12)
+    at Vic3WebClass.handler (/home/sneak/vic3savegameanalyzer/bin/parser/Vic3Web.js:68:16)
+    at /home/sneak/vic3savegameanalyzer/bin/parser/Vic3Web.js:40:78
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed
+Killed

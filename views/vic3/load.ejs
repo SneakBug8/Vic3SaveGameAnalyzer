@@ -1,0 +1,18 @@
+<%- include('../partials/head') %>
+
+<H1>Upload save game</H1>
+
+    <div id="app">
+        <form  action="/upload" ref='uploadForm' 
+        method='post' 
+        encType="multipart/form-data">
+            <input name="savefile" type="file" />
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
+    <script defer>
+     
+    </script>
+
+    <%- include('../partials/bottom') %>
